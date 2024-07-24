@@ -164,5 +164,29 @@ special_mode_mask values:
       <A3Preview>sagit_imx386_semco_hfr_120_3a</A3Preview>
       <A3Video>sagit_imx386_semco_hfr_120_3a</A3Video>
     </ChromatixName>
+
+    <ChromatixName sensor_resolution_index="5" special_mode_mask="0">
+      <ISPPreview>sagit_imx386_semco_hfr_120</ISPPreview>
+      <ISPSnapshot>sagit_imx386_semco_hfr_120</ISPSnapshot>
+      <ISPVideo>sagit_imx386_semco_hfr_120</ISPVideo>
+      <CPPPreview>sagit_imx386_semco_cpp_hfr_120</CPPPreview>
+      <CPPSnapshot>sagit_imx386_semco_cpp_hfr_120</CPPSnapshot>
+      <CPPVideo>sagit_imx386_semco_cpp_hfr_120</CPPVideo>
+      <CPPLiveshot>sagit_imx386_semco_cpp_hfr_120</CPPLiveshot>
+      <A3Preview>sagit_imx386_semco_hfr_240_3a</A3Preview>
+      <A3Video>sagit_imx386_semco_hfr_240_3a</A3Video>
+    </ChromatixName>   
+
+    <ChromatixName sensor_resolution_index="6" special_mode_mask="0">
+      <ISPPreview>sagit_imx386_semco_snapshot_hdr</ISPPreview>
+      <ISPSnapshot>sagit_imx386_semco_snapshot_hdr</ISPSnapshot>
+      <ISPVideo>sagit_imx386_semco_snapshot_hdr</ISPVideo>
+      <CPPPreview>sagit_imx386_semco_cpp_snapshot_hdr</CPPPreview>
+      <CPPSnapshot>sagit_imx386_semco_cpp_snapshot_hdr</CPPSnapshot>
+      <CPPVideo>sagit_imx386_semco_cpp_video_hdr</CPPVideo>
+      <CPPLiveshot>sagit_imx386_semco_cpp_video_hdr</CPPLiveshot>
+      <A3Preview>sagit_imx386_semco_hdr_snapshot_3a</A3Preview>
+      <A3Video>sagit_imx386_semco_hdr_video_3a</A3Video>
+    </ChromatixName>    
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>
